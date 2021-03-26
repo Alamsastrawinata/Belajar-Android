@@ -1,0 +1,23 @@
+{
+   "item": [
+      {
+         "compatibility": "TextView",
+         "currently": "date",
+         "finance": "TextView",
+         "FPost": "TextView",
+         "general": "TextView",
+         "GPost": "TextView",
+         "icon": "https://github.com/Alamsastrawinata/Belajar-Android/raw/main/img/514077.jpg",
+         "love": "TextView",
+         "LPost": "TextView",
+         "name": "Capricorn",
+         "status": "sold",
+         "tipe": "Halfmoon",
+         "ukuran": "12/5 mm, 12 grams",
+         "umur": "2 mouth",
+         "warna": "White, Blue, Purple",
+         "ytid": "a6csnhx_Gi0",
+         "zdate": "Zodiac Date"
+      }
+   ]
+}
